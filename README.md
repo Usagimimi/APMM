@@ -1,2 +1,2 @@
 # APMM
-Arduino Pro Mysensors Motherboard
+Mother board for Arduino Pro Mini to work with Mysensors.org
